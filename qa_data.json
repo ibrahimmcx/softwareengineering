@@ -1,0 +1,1102 @@
+[
+    {
+        "title": "Ders3_Cevik_Yazilim_Gelistirme_Sorular",
+        "sections": [
+            {
+                "letter": "A",
+                "title": "Çoktan Seçmeli Sorular",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Çevik yöntemlerin ortaya çıkmasının temel nedeni nedir?\nA) Daha ayrıntılı yazılım dokümantasyonu üretme ihtiyacı\nB) 1980'lerin ve 1990'ların ağır yazılım tasarım yöntemlerinden duyulan memnuniyetsizlik\nC) Büyük ekiplerde çalışmayı kolaylaştırma isteği\nD) Sözleşme tabanlı yazılım geliştirmeye geçiş\nE) Şelale modelinin başarısızlığını kanıtlama çabası",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Çevik Manifesto'ya göre aşağıdakilerden hangisi daha çok değer verilen ilkeler arasındadır?\nA) Kapsamlı dokümantasyon ve sözleşme müzakeresi\nB) Süreçler ve araçlar ile planı takip etmek\nC) Bireyler ve etkileşimler ile değişime yanıt vermek\nD) Ön tasarım ve detaylı şartname üretmek\nE) Büyük sürümler ve uzun geliştirme döngüleri",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Ekstra Programlama (XP) bağlamında \"önce test geliştirme\" (test-first development) ne anlama gelir?\nA) Yazılımın tamamlandıktan sonra test edilmesi\nB) Test ekibinin geliştirme ekibinden bağımsız çalışması\nC) Bir işlevsellik uygulanmadan önce o işlevselliğe ait testlerin yazılması\nD) Testlerin yalnızca son sürümde çalıştırılması\nE) Müşterinin tüm testleri tek başına yazması",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "4",
+                        "text": "XP'de \"çiftler programı\" (pair programming) hangi faydayı doğrudan sağlar?\nA) Geliştirme maliyetini iki katına çıkarır\nB) Her bir kod satırına en az iki kişi baktığı için gayri resmi kod incelemesi yapılmış olur\nC) Takım üyelerinin birbirinden bağımsız çalışmasını sağlar\nD) Test otomasyonunu ortadan kaldırır\nE) Proje belgelerinin otomatik üretilmesine yardımcı olur",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Scrum'da \"Sprint\" kavramı neyi ifade eder?\nA) Projenin tüm geliştirme süresini kapsayan tek bir döngüyü\nB) Müşteriyle yapılan haftalık toplantıları\nC) Sistemin bir artışının geliştirildiği, normalde 2–4 haftalık sabit süreli döngüleri\nD) Yazılım gereksinimlerinin toplandığı ilk aşamayı\nE) Kodun son kullanıcıya teslim edildiği dağıtım aşamasını",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "6",
+                        "text": "Scrum'da \"Scrum ustası\" (Scrum master) rolünün temel görevi nedir?\nA) Proje için tüm teknik kararları almak\nB) Müşteri adına gereksinimleri yazmak\nC) Geliştirme ekibini dış dikkat dağıtıcı unsurlardan korumak ve süreci kolaylaştırmak\nD) Tüm testleri otomatik olarak çalıştırmak\nE) Bütçe ve takvim raporlarını yönetmek",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "7",
+                        "text": "XP'de kullanıcı gereksinimleri nasıl ifade edilir?\nA) Resmi UML diyagramları ve teknik şartname belgeleriyle\nB) Kullanıcı hikayeleri (user stories) veya senaryolar şeklinde kartlara yazılarak\nC) Yalnızca müşteri ile yapılan toplantı tutanaklarıyla\nD) Veritabanı şema belgeleriyle\nE) Proje yöneticisinin hazırladığı iş kırılım yapısıyla",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "8",
+                        "text": "\"Yeniden düzenleme\" (refactoring) XP'de ne amaçla yapılır?\nA) Sistemin kullanıcı arayüzünü yeniden tasarlamak için\nB) Kodu sürekli iyileştirerek basit ve sürdürülebilir tutmak, dolayısıyla değişiklikleri kolaylaştırmak için\nC) Yeni bir platform için yazılımı tamamen yeniden yazmak için\nD) Test senaryolarını otomatikleştirmek için\nE) Müşteri gereksinimlerini önceliklendirmek için",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "9",
+                        "text": "Plan odaklı geliştirme ile çevik geliştirme arasındaki temel fark nedir?\nA) Plan odaklı geliştirmede hiç belge üretilmez\nB) Çevik geliştirmede yazılım hiçbir zaman müşteriye teslim edilmez\nC) Plan odaklı geliştirmede ayrı aşamalar ve önceden planlanan çıktılar vardır; çevik geliştirmede şartname, tasarım ve uygulama iç içedir\nD) Çevik geliştirme yalnızca büyük sistemler için uygundur\nE) Plan odaklı geliştirme her zaman şelale modeli anlamına gelir",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "10",
+                        "text": "Çevik yöntemlerin büyük sistemlere ölçeklenmesinde karşılaşılan temel zorluklardan biri hangisidir?\nA) Büyük sistemlerde testin gereksiz olması\nB) Büyük sistemlerin çoğunlukla mevcut sistemlerle etkileşmesi ve esnekliğe tam olarak imkân vermemesi\nC) Büyük ekiplerin çevik manifesto hakkında bilgi sahibi olmaması\nD) Büyük sistemlerde sprint döngülerinin hiç kullanılamaması\nE) Yeniden düzenlemenin büyük projelerde yasak olması",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "11",
+                        "text": "XP'de \"sürekli entegrasyon\" (continuous integration) uygulaması ne gerektirir?\nA) Haftada bir kez tüm sistemin derlenmesi\nB) Bir görev tamamlanır tamamlanmaz o kodun tüm sisteme entegre edilmesi ve tüm birim testlerinin geçmesi\nC) Müşterinin her kod değişikliğini onaylaması\nD) Geliştirme ekibinin tek bir işletim sisteminde çalışması\nE) Kod değişikliklerinin yalnızca sprint sonunda birleştirilmesi",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "12",
+                        "text": "Çevik yöntemlerin uygulanması için en uygun proje ortamı hangisidir?\nA) Farklı zaman dilimlerinde çalışan onlarca ekipten oluşan büyük projeler\nB) Müşterinin sürece dahil olma taahhüdünün olmadığı, harici denetimli kritik sistemler\nC) Müşterinin dahil olabileceği, küçük-orta ölçekli, eş konumlu ekiplerle yürütülen projeler\nD) Detaylı ön spesifikasyon gerektiren güvenlik kritik gömülü sistemler\nE) Dokümantasyona yüksek yasal zorunluluk getiren finans sistemleri",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "13",
+                        "text": "Scrum'daki \"ürün birikimi\" (product backlog) nedir?\nA) Tamamlanan görevlerin arşivlendiği belge\nB) Proje üzerinde yapılacak işlerin listesi; sprint planlaması için başlangıç noktası\nC) Her sprint sonunda yapılan performans değerlendirme raporu\nD) Müşteri ile imzalanan sözleşme ekleri\nE) Hata (bug) takip sistemi",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "14",
+                        "text": "XP'de \"kolektif mülkiyet\" (collective ownership) ilkesi neyi ifade eder?\nA) Yazılımın telif haklarının müşteriye ait olmasını\nB) Yalnızca kıdemli geliştiricilerin kodun kritik bölümlerini değiştirebilmesini\nC) Tüm geliştiricilerin tüm kodun sorumluluğunu paylaşmasını ve herkesin her şeyi değiştirebilmesini\nD) Kaynak kodun açık kaynak lisansıyla yayımlanmasını\nE) Kod incelemesinin yalnızca takım liderince yapılmasını",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "15",
+                        "text": "Büyük kuruluşlarda çevik yöntemlere direnişin olası nedenlerinden biri hangisidir?\nA) Çevik yöntemlerin maliyetinin diğer yöntemlerden çok yüksek olması\nB) Çevik yöntemlerin hiçbir test uygulaması içermemesi\nC) Geleneksel mühendislik kültürüne ve var olan kalite/standart prosedürleriyle uyumsuzluğa bağlı kültürel direnç\nD) Çevik yöntemlerin müşteri katılımını tamamen reddetmesi\nE) Scrum'ın küçük projelerde yasal olarak kullanılamaması",
+                        "answer": "C"
+                    }
+                ],
+                "instructions": "Her soru için yalnızca bir doğru şık seçiniz. (Her soru 2 puan)"
+            },
+            {
+                "letter": "B",
+                "title": "Boşluk Doldurma Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Çevik Manifesto'ya göre, sözleşme müzakeresi yerine _______________ ön plana alınmalıdır.",
+                        "answer": "Müşteri işbirliği"
+                    },
+                    {
+                        "number": "2",
+                        "text": "XP'de yeni bir sürüm oluşturulduğunda, o derlemenin kabul edilmesi için _______________ başarıyla çalıştırılmış olmalıdır.",
+                        "answer": "Tüm testler (birim/sistem testleri)"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Scrum'da geliştirme ekibini dış dikkat dağıtıcı unsurlardan koruyan ve günlük toplantıları yöneten kişiye _______________ denir.",
+                        "answer": "Scrum ustası (Scrum master)"
+                    },
+                    {
+                        "number": "4",
+                        "text": "XP'deki \"_______________ programlama\" uygulamasında iki geliştirici, aynı iş istasyonunda birlikte kod yazar ve birbirlerinin çalışmasını anlık olarak denetler.",
+                        "answer": "Çift (pair) programlama"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Çevik yöntemlerde kullanıcı gereksinimleri, kısa anlatılar biçiminde kartlara yazılan _______________ olarak ifade edilir.",
+                        "answer": "Kullanıcı hikayeleri (user stories)"
+                    },
+                    {
+                        "number": "6",
+                        "text": "XP'de \"_______________ entegrasyon\" ilkesi gereği, bir görev tamamlanır tamamlanmaz kod tüm sisteme dahil edilir ve birim testleri yeniden çalıştırılır.",
+                        "answer": "Sürekli (continuous)"
+                    },
+                    {
+                        "number": "7",
+                        "text": "Büyük sistemlere çevik yöntemleri uygulamayı ifade eden kavram \"_______________ büyütme\" (scaling up), küçük-orta ölçekli kuruluşlara yaymayı ifade eden kavram ise \"_______________ genişletme\" (scaling out) olarak adlandırılır.",
+                        "answer": "Ölçek büyütme (scaling up) / Ölçek genişletme (scaling out)"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Scrum'da her sprint için yapılacak işlerin seçildiği ve müşteri ile birlikte belirlenen listeye _______________ denir.",
+                        "answer": "Ürün birikimi (product backlog)"
+                    },
+                    {
+                        "number": "9",
+                        "text": "XP uygulamalarından \"_______________ tasarım\", mevcut gereksinimleri karşılamaya yetecek en sade tasarımın yapılmasını; gereğinden fazla karmaşıklıktan kaçınılmasını öngörür.",
+                        "answer": "Basit"
+                    },
+                    {
+                        "number": "10",
+                        "text": "Bir sistemin harici bir düzenleyici otorite tarafından onaylanması gerektiğinde, çevik yöntemler yerine _______________ odaklı geliştirme tercih edilir; çünkü düzenleyiciler ayrıntılı belge talep eder.",
+                        "answer": "Plan"
+                    }
+                ],
+                "instructions": "Aşağıdaki cümlelerdeki boşlukları uygun kavramlarla doldurunuz. (Her boşluk 1 puan)"
+            },
+            {
+                "letter": "C",
+                "title": "Doğru / Yanlış Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Çevik Manifesto, kapsamlı dokümantasyonu tümüyle reddeder; bu yüzden çevik projelerde hiçbir belge üretilmez.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Manifesto dokümantasyonu tümüyle reddetmez; yalnızca kapsamlı dokümantasyon yerine çalışan yazılıma öncelik verir. Belge üretilebilir, ancak aşırıya kaçılmaz."
+                    },
+                    {
+                        "number": "2",
+                        "text": "XP'de yeni bir işlevsellik için test, o işlevselliğin kodu yazılmadan önce geliştirilir.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – \"Önce test geliştirme\" ilkesi, koddan önce testin yazılmasını öngörür."
+                    },
+                    {
+                        "number": "3",
+                        "text": "Scrum'da sprint süresi proje ekibi tarafından esnek biçimde belirlenir; sabit bir süre zorunluluğu yoktur.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Sprint süresi sabit bir döngüdür; normalde 2–4 hafta olarak belirlenir ve o sprint için değiştirilmez."
+                    },
+                    {
+                        "number": "4",
+                        "text": "XP'deki çiftler programı uygulamasında, çiftler dinamik olarak oluşturulur; yani ekip üyeleri zaman içinde farklı partnlarla çalışır.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Çiftler dinamik oluşturulur; tüm ekip üyeleri zamanla birbirleriyle çalışır."
+                    },
+                    {
+                        "number": "5",
+                        "text": "Plan odaklı geliştirme ile çevik geliştirme yaklaşımları birbirini dışlar; gerçek projelerde bu ikisinin unsurları bir arada kullanılamaz.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Çoğu gerçek proje plan odaklı ve çevik unsurları bir arada barındırır; iki yaklaşım birbirini dışlamaz."
+                    },
+                    {
+                        "number": "6",
+                        "text": "Büyük sistemler için çevik yöntemleri ölçeklendirmek, küçük projelere uygulamak kadar kolaydır; çünkü çevik yöntemler sistem büyüklüğünden bağımsız çalışır.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Büyük sistemlere ölçeklemek zordur; farklı ekipler, dağıtık çalışma ve mevcut sistemlerle entegrasyon ciddi güçlükler doğurur."
+                    },
+                    {
+                        "number": "7",
+                        "text": "XP'de \"sürdürülebilir hız\" ilkesi gereği, büyük miktarlarda fazla mesai genellikle kod kalitesini ve orta vadeli üretkenliği düşürdüğü için kabul edilemez.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – XP'nin \"sürdürülebilir hız\" ilkesi fazla mesainin uzun vadede verimliliği düşürdüğünü kabul eder."
+                    },
+                    {
+                        "number": "8",
+                        "text": "Scrum'ın temel odağı, belirli programlama uygulamaları sunmaktan ziyade yinelemeli geliştirmeyi yönetmek için bir proje yönetimi çerçevesi oluşturmaktır.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Scrum, belirli programlama tekniklerinden çok yinelemeli geliştirmeyi yönetmeye odaklanır."
+                    },
+                    {
+                        "number": "9",
+                        "text": "Çevik yöntemlerde yazılım bakımı, orijinal geliştirme kadar desteklenmektedir; bu yüzden bakım sürecinde hiçbir sorun yaşanmaz.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Biçimsel dokümantasyonun az olması nedeniyle bakım zor olabilir; orijinal ekibin ayrılması durumunda sorunlar artar."
+                    },
+                    {
+                        "number": "10",
+                        "text": "XP'de kullanıcı hikayeleri, geliştirme ekibi tarafından uygulama görevlerine bölünür ve bu görevler zamanlama ile maliyet tahminlerinin temelidir.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Hikayeler geliştirme görevlerine bölünür ve bu görevler tahmin için temel oluşturur."
+                    }
+                ],
+                "instructions": "Her ifade için 'Doğru' veya 'Yanlış' seçeneğini işaretleyiniz. (Her soru 1 puan)"
+            },
+            {
+                "letter": "D",
+                "title": "Eşleştirme Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Çevik Manifesto\na) XP'de geliştirici çiftlerinden herhangi birinin sistemin herhangi bir bölümünü değiştirebileceği ilke",
+                        "answer": "c"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Yeniden düzenleme (Refactoring)\nb) Scrum'da yapılacak işlerin önceliklendirilmiş listesi; sprint planlamasının temel girdisi",
+                        "answer": "d"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Kolektif mülkiyet\nc) Çevik değerleri ve öncelikleri bildiren; 'bireyler ve etkileşimler', 'çalışan yazılım' gibi ilkeleri içeren belge",
+                        "answer": "a"
+                    },
+                    {
+                        "number": "4",
+                        "text": "Ürün birikimi (Product backlog)\nd) Kodun işlevselliğini değiştirmeksizin yapısını iyileştirme; basitliği ve sürdürülebilirliği artırma pratiği",
+                        "answer": "b"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Sprint\ne) XP'de programcıların kod üretimini test yazımından önce gerçekleştirmeyip, işlevselliği test ederek belirlediği yaklaşım",
+                        "answer": "f"
+                    },
+                    {
+                        "number": "6",
+                        "text": "Önce test geliştirme\nf) Scrum'da sistem artışının geliştirildiği sabit süreli (2–4 hafta) yinelemeli döngü",
+                        "answer": "e"
+                    },
+                    {
+                        "number": "7",
+                        "text": "Scrum ustası\ng) Geliştirme ekibini organizasyonun geri kalanından yalıtan, günlük toplantıları yöneten Scrum kolaylaştırıcısı",
+                        "answer": "g"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Kullanıcı hikayesi\nh) XP'de kullanıcı gereksiniminin kısa, anlaşılır biçimde ifade edildiği; karta yazılan anlatı",
+                        "answer": "h"
+                    }
+                ],
+                "instructions": "A Sütunundaki kavramları B Sütunundaki tanımlarla eşleştiriniz. (Her eşleştirme 1 puan)\n\nA – Kavram\nB – Tanım / Açıklama"
+            },
+            {
+                "letter": "E",
+                "title": "Çoklu Yanıt Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "XP'nin çevik ilkelerle örtüşen uygulamaları arasında aşağıdakilerden hangileri yer alır?\nA) Küçük, sık sistem sürümleri\nB) Kapsamlı ön tasarım dokümantasyonu\nC) Ekiple tam zamanlı müşteri etkileşimi\nD) Sürekli yeniden düzenleme\nE) Uzun geliştirme döngüleri",
+                        "answer": "A, C, D – Küçük sürümler, müşteri etkileşimi ve sürekli yeniden düzenleme XP'nin çevik ilkelerle örtüşen uygulamalarıdır."
+                    },
+                    {
+                        "number": "2",
+                        "text": "Scrum'un avantajları arasında aşağıdakilerden hangileri sayılabilir?\nA) Kararsız gereksinimler ilerlemeyi engellemez\nB) Müşteriler ürün artışlarının teslim edildiğini görür\nC) Ekip iletişimi iyileştirilir çünkü herkes her şeyi görebilir\nD) Tüm gereksinimler proje başında kesinleştirilir\nE) Müşteriler ve geliştiriciler arasında güven tesis edilir",
+                        "answer": "A, B, C, E – Scrum'ın belgelenmiş avantajlarıdır. (D yanlış: Scrum'da gereksinimler baştan kesinleştirilmez.)"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Büyük sistemlerde çevik yöntemlerin ölçeklenmesini zorlaştıran etkenler hangileridir?\nA) Birden fazla ekibin farklı yerlerde çalışması\nB) Sistemin mevcut sistemlerle etkileşmesi (kahverengi alan sistemi)\nC) Tüm paydaşları geliştirme sürecine dahil etmenin güçlüğü\nD) Çevik yöntemlerin test otomasyonunu desteklememesi\nE) Uzun tedarik ve geliştirme süresi",
+                        "answer": "A, B, C, E – Dağıtık ekipler, kahverengi alan sistemleri, paydaş çokluğu ve uzun geliştirme süresi ölçekleme zorluklarıdır. (D yanlış: çevik yöntemler test otomasyonunu destekler.)"
+                    },
+                    {
+                        "number": "4",
+                        "text": "XP test sürecinin özellikleri arasında aşağıdakilerden hangileri yer alır?\nA) Önce test geliştirme\nB) Test geliştirme ve doğrulamada kullanıcı katılımı\nC) Testlerin yalnızca son sürümde çalıştırılması\nD) Otomatik test donanımlarının kullanımı\nE) Senaryolardan artımlı test geliştirme",
+                        "answer": "A, B, D, E – XP test özelliklerinin tamamıdır. (C yanlış: testler yalnızca son sürümde değil, sürekli çalıştırılır.)"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Çevik yöntemler yerine plan odaklı yaklaşımın tercih edilmesi gereken durumlar hangileridir?\nA) Sistemin gerçek zamanlı ve karmaşık zamanlama gereksinimleri içermesi\nB) Müşterinin geliştirme sürecine tam zamanlı katılabilmesi\nC) Sistemin harici bir düzenleyici otorite tarafından onaylanması gerekmesi\nD) Uzun ömürlü sistemler için kapsamlı tasarım dokümantasyonu gerekmesi\nE) Geliştirmenin eş konumlu küçük bir ekip tarafından yürütülmesi",
+                        "answer": "A, C, D – Karmaşık zamanlama, harici denetim ve uzun ömürlü sistemler plan odaklı yaklaşımı gerektirir. (B ve E çevik için uygun senaryolardır.)"
+                    }
+                ],
+                "instructions": "Aşağıdaki sorularda birden fazla doğru yanıt olabilir. Tüm doğru şıkları işaretleyiniz. (Her soru 3 puan – tüm doğruları seçmek gerekir)"
+            },
+            {
+                "letter": "F",
+                "title": "Kısa Cevaplı Sorular",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Çevik yöntemlerle yazılım bakımı arasındaki ilişkiyi açıklayınız. Bakım sürecinde hangi iki temel sorun ön plana çıkmaktadır?\nCevabınız:",
+                        "answer": "Çevik yöntemler ve yazılım bakımı:"
+                    },
+                    {
+                        "number": "2",
+                        "text": "XP'de yeniden düzenlemenin (refactoring) amacını ve sınırlılıklarını açıklayınız. Hangi tür değişiklikler yeniden düzenlemeyle kolayca karşılanamaz?\nCevabınız:",
+                        "answer": "Yeniden düzenleme: Amaç ve sınırlılıklar:"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Plan odaklı ve çevik geliştirme arasında seçim yaparken değerlendirilmesi gereken en az dört teknik, insani veya organizasyonel faktörü sıralayınız ve kısaca açıklayınız.\nCevabınız:",
+                        "answer": "Plan odaklı / Çevik geçiş faktörleri (en az dört):"
+                    }
+                ],
+                "instructions": "Aşağıdaki soruları kısaca yanıtlayınız. (Her soru 5 puan)"
+            }
+        ]
+    },
+    {
+        "title": "Ders4_Gereksinim_Muhendisligi_Sorular",
+        "sections": [
+            {
+                "letter": "A",
+                "title": "Çoktan Seçmeli Sorular",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Gereksinim mühendisliğinin temel amacı nedir?\nA) Yazılımın kodlanması için algoritmaları belirlemek\nB) Müşterinin bir sistemden ihtiyaç duyduğu hizmetleri ve kısıtlamaları ortaya koymak\nC) Sistem mimarisini tasarlamak\nD) Yazılım testlerini planlamak\nE) Projenin bütçesini hesaplamak",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Kullanıcı gereksinimleri ile sistem gereksinimleri arasındaki temel fark nedir?\nA) Kullanıcı gereksinimleri yalnızca geliştiriciler tarafından yazılır\nB) Sistem gereksinimleri sözleşmenin parçası olamaz\nC) Kullanıcı gereksinimleri doğal dille yazılır, sistem gereksinimleri ise teknik ve ayrıntılıdır\nD) Kullanıcı gereksinimleri her zaman sistem gereksinimlerinden daha uzundur\nE) Her ikisi de aynı şekilde yazılır, aralarında fark yoktur",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "3",
+                        "text": "İşlevsel gereksinimler aşağıdakilerden hangisini tanımlar?\nA) Sistemin yanıt süresi ve depolama kapasitesi\nB) Yazılım geliştirme sürecinde kullanılan programlama dilini\nC) Sistemin sağlaması gereken hizmetleri ve belirli girdilere nasıl tepki vereceğini\nD) Sistemin güvenilirlik ve taşınabilirlik özelliklerini\nE) Yalnızca sistemin yapmayacağı şeyleri",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "4",
+                        "text": "İşlevsel olmayan gereksinimlerin işlevsel gereksinimlerden daha kritik olabileceği duruma bir örnek hangisidir?\nA) Kullanıcı giriş formunun doğrulama kuralları\nB) Raporların hangi formatta üretileceği\nC) Sistemin performans gereksinimi karşılanmadığında sistemin işe yaramaması\nD) Veritabanı tablolarının adlarının belirlenmesi\nE) Sistem menülerinin Türkçe olması",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "5",
+                        "text": "\"Ürün gereksinimi\" aşağıdaki kategorilerden hangisine girer?\nA) İşlevsel gereksinimler\nB) Etki alanı gereksinimleri\nC) İşlevsel olmayan gereksinimler – Organizasyon gereksinimleri\nD) İşlevsel olmayan gereksinimler – Ürün gereksinimleri\nE) Kullanıcı gereksinimleri",
+                        "answer": "D"
+                    },
+                    {
+                        "number": "6",
+                        "text": "Yazılım gereksinimleri belgesi (SRS) hakkında hangisi doğrudur?\nA) Yalnızca sistem gereksinimlerini içerir, kullanıcı gereksinimlerine yer vermez\nB) Sistemin nasıl tasarlanacağını ayrıntılı biçimde açıklayan bir tasarım belgesidir\nC) Hem kullanıcı gereksinimlerini hem de sistem gereksinimlerini içermeli; sistemin ne yapacağını belirtmelidir\nD) Yalnızca geliştiriciler tarafından okunur ve müşteriler için yazılmaz\nE) Çevik projelerde her zaman zorunludur",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "7",
+                        "text": "Gereksinim doğrulama sürecinde \"geçerlilik\" kontrolü neyi ifade eder?\nA) Gereksinimin doğru bir şekilde ifade edilip edilmediğini\nB) Sistemin müşterinin ihtiyaçlarını en iyi şekilde karşılayan işlevleri sağlayıp sağlamadığını\nC) Gereksinimlerin birbirleriyle çelişip çelişmediğini\nD) Tüm işlevlerin eksiksiz olarak tanımlanıp tanımlanmadığını\nE) Gereksinimlerin mevcut bütçe içinde uygulanabilir olup olmadığını",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Gereksinimlerin ortaya çıkarılması sürecinde \"etnografi\" tekniğinin temel amacı nedir?\nA) Mülakatlar aracılığıyla paydaşların isteklerini doğrudan sormak\nB) Sistemi prototip olarak geliştirip kullanıcıya göstermek\nC) İnsanların gerçekte nasıl çalıştığını gözlemleyerek gereksinimleri çıkarmak\nD) Gereksinimler belgesi yazımını hızlandırmak\nE) Yazılım mimarisini belirlemek",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "9",
+                        "text": "Gereksinimlerin tutarsızlığı (Gereksinimler Tutarsızlığı slaydında verilen örnek üzerinden) hangi durumda ortaya çıkar?\nA) Gereksinim belgesi çok kısa yazıldığında\nB) Belirsiz gereksinimler, geliştiriciler ve kullanıcılar tarafından farklı yorumlandığında\nC) Proje bütçesi yetersiz olduğunda\nD) Sistem testi yapılmadığında\nE) Yazılım geliştirme süreci çok uzun sürdüğünde",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "10",
+                        "text": "Gereksinim değişikliği yönetimi sürecinde ilk adım hangisidir?\nA) Gereksinimler belgesinin güncellenmesi\nB) Değişiklik maliyetinin hesaplanması\nC) Problem analizi ve değişiklik özelliğinin analiz edilmesi\nD) Yazılım kodunun yeniden yazılması\nE) Müşteri ile sözleşmenin feshedilmesi",
+                        "answer": "C"
+                    }
+                ],
+                "instructions": "Her soru için yalnızca bir doğru şık seçiniz. (Her soru 2 puan)"
+            },
+            {
+                "letter": "B",
+                "title": "Boşluk Doldurma Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Gereksinim mühendisliğinde, müşteriler için doğal dille yazılan ve sistemin sağladığı hizmetlerin genel açıklamalarını içeren gereksinimler _______________ gereksinimleri olarak adlandırılır.",
+                        "answer": "Kullanıcı gereksinimleri"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Sistemi kullanan her personelin benzersiz bir şekilde tanımlandığı yöntem olan _______________ numarası, AS-HYS'de 8 basamaklı olarak tanımlanmıştır.",
+                        "answer": "Çalışan (personel kimlik)"
+                    },
+                    {
+                        "number": "3",
+                        "text": "İşlevsel olmayan gereksinimler; ürün gereksinimleri, _______________ gereksinimleri ve dış gereksinimler olmak üzere üç kategoriye ayrılır.",
+                        "answer": "Organizasyon"
+                    },
+                    {
+                        "number": "4",
+                        "text": "Bir sistemin belirli koşullarda çalışmaya devam edip edemeyeceğini ifade eden özellik _______________ olarak tanımlanır ve işlevsel olmayan gereksinimler kapsamında değerlendirilir.",
+                        "answer": "Güvenilirlik (reliability)"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Gereksinim doğrulama tekniklerinden biri olan _______________, gereksinimlerin sistematik manuel analizini içerir ve müşteri ile yüklenici personelinin birlikte yürüttüğü bir inceleme sürecidir.",
+                        "answer": "Gereksinim incelemeleri"
+                    },
+                    {
+                        "number": "6",
+                        "text": "Sistemin operasyonel alanından gelen ve yeni işlevsel gereksinimler veya mevcut kısıtlamalar içerebilen gereksinimler _______________ gereksinimleri olarak adlandırılır.",
+                        "answer": "Etki alanı (domain)"
+                    },
+                    {
+                        "number": "7",
+                        "text": "Gereksinimlerin ortaya çıkarılması sürecinde, gerçek hayat örnekleriyle sistemin nasıl kullanılacağını betimleyen yapılar _______________ olarak adlandırılır.",
+                        "answer": "Senaryolar"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Gereksinim mühendisliğinde bir gereksinimin başka gereksinimlerle olan ilişkilerinin takip edilmesine _______________ politikası denir.",
+                        "answer": "İzlenebilirlik (traceability)"
+                    }
+                ],
+                "instructions": "Aşağıdaki cümlelerdeki boşlukları uygun kavramlarla doldurunuz. (Her boşluk 1 puan)"
+            },
+            {
+                "letter": "C",
+                "title": "Doğru / Yanlış Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Yazılım gereksinimleri belgesi (SRS), sistemin nasıl uygulanacağını ayrıntılı biçimde tanımlayan bir tasarım belgesidir.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış– SRS bir tasarım belgesi değil, gereksinimler belgesidir; sistemin ne yapacağını tanımlar."
+                    },
+                    {
+                        "number": "2",
+                        "text": "İşlevsel olmayan gereksinimler, genellikle tek tek özellikler yerine sisteme bir bütün olarak uygulanır.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru– İşlevsel olmayan gereksinimler sisteme bütünüyle uygulanır."
+                    },
+                    {
+                        "number": "3",
+                        "text": "Gereksinimlerin doğrulanması (validation), gereksinimlerin müşterinin gerçekten istediği sistemi tanımlayıp tanımlamadığını kontrol eder.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru– Doğrulama, gereksinimlerin müşterinin gerçek ihtiyaçlarını yansıtıp yansıtmadığını kontrol eder."
+                    },
+                    {
+                        "number": "4",
+                        "text": "Çevik yöntemler, gereksinimler belgesi oluşturmayı temel süreç adımı olarak kabul eder ve tüm projelerde zorunlu tutar.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış– Çevik yöntemler (ör. XP), gereksinim belgesi oluşturmanın zaman kaybı olduğunu savunur."
+                    },
+                    {
+                        "number": "5",
+                        "text": "Kullanıcı gereksinimlerinin okuyucu kitlesi yalnızca yazılım geliştiricilerden oluşur.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış– Kullanıcı gereksinimleri müşteri yöneticileri, son kullanıcılar ve sistem mimarları dahil geniş bir kitleye yazılır."
+                    },
+                    {
+                        "number": "6",
+                        "text": "Gereksinimlerin tutarlı olması, sistemin tüm işlevlerinin eksiksiz biçimde tanımlandığı anlamına gelir.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış– Tutarlılık, gereksinimlerde çelişki olmadığı anlamına gelir; eksiksizlik ise tüm işlevlerin tanımlandığını ifade eder; bunlar farklı kavramlardır."
+                    },
+                    {
+                        "number": "7",
+                        "text": "Etnografi, mevcut süreçleri anlamak için etkilidir; ancak bir sisteme eklenmesi gereken yeni özellikleri belirlemek için yeterli değildir.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru– Etnografi mevcut süreçleri anlamak için etkilidir ancak yeni özellikleri belirleyemez."
+                    },
+                    {
+                        "number": "8",
+                        "text": "Gereksinim yönetimi, yalnızca sistem teslim edilmeden önce gereksinimlerdeki değişiklikleri yönetir; teslimattan sonra uygulanmaz.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış– Gereksinim yönetimi hem geliştirme süreci hem de sistem kullanıma girdikten sonra da devam eder."
+                    }
+                ],
+                "instructions": "Her ifade için 'Doğru' veya 'Yanlış' seçeneğini işaretleyiniz. (Her soru 1 puan)"
+            },
+            {
+                "letter": "D",
+                "title": "Eşleştirme Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "İşlevsel gereksinim\na) Sistemin güvenilirlik, hız, depolama gibi özelliklerini tanımlar",
+                        "answer": "b"
+                    },
+                    {
+                        "number": "2",
+                        "text": "İşlevsel olmayan gereksinim\nb) Sistemin sunması gereken hizmetlerin ve davranışların açıklamasıdır",
+                        "answer": "a"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Kullanıcı gereksinimi\nc) Müşteriler için doğal dille yazılan, üst düzey hizmet tanımıdır",
+                        "answer": "c"
+                    },
+                    {
+                        "number": "4",
+                        "text": "Sistem gereksinimi\nd) Yüklenici ve müşteri arasındaki sözleşmenin parçası olabilen teknik gereksinimdir",
+                        "answer": "d"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Etki alanı gereksinimi\ne) Sistemin operasyonel ortamından kaynaklanan kısıtlamalar ve kurallardır",
+                        "answer": "e"
+                    },
+                    {
+                        "number": "6",
+                        "text": "Gereksinim doğrulama\nf) Gereksinimlerin müşterinin gerçek ihtiyaçlarını yansıtıp yansıtmadığını kontrol etme sürecidir",
+                        "answer": "f"
+                    },
+                    {
+                        "number": "7",
+                        "text": "Senaryo\ng) Sistemin gerçek hayatta nasıl kullanılacağını gösteren örnek etkileşimdir",
+                        "answer": "g"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Prototipleme\nh) Gereksinimleri kontrol etmek için yürütülebilir bir sistem modeli kullanma tekniğidir",
+                        "answer": "h"
+                    }
+                ],
+                "instructions": "A Sütunundaki kavramları B Sütunundaki tanımlarla eşleştiriniz. (Her eşleştirme 1 puan)\n\nA Sütunu – Kavram\nB Sütunu – Tanım"
+            },
+            {
+                "letter": "E",
+                "title": "Kısa Cevaplı Sorular",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Gereksinimlerin \"eksiksiz\" ve \"tutarlı\" olması ne anlama gelir? Pratikte her ikisini aynı anda sağlamak neden zordur?\nCevabınız:",
+                        "answer": "Eksiksizlik ve tutarlılık:"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Gereksinim değişikliği yönetiminin üç aşamasını açıklayınız.\nCevabınız:",
+                        "answer": "Gereksinim değişikliği yönetiminin üç aşaması:"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Mülakatların (görüşmelerin) gereksinimlerin belirlenmesinde yeterli olmadığı durumlar nelerdir? Alternatif olarak hangi teknikler kullanılabilir?\nCevabınız:",
+                        "answer": "Mülakatların yetersizliği ve alternatifler:"
+                    }
+                ],
+                "instructions": "Aşağıdaki soruları kısaca yanıtlayınız. (Her soru 5 puan)"
+            }
+        ]
+    },
+    {
+        "title": "Ders5_Sistem_Modelleme_Sorular",
+        "sections": [
+            {
+                "letter": "A",
+                "title": "Çoktan Seçmeli Sorular",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Sistem modelleme nedir?\nA) Sistemin kaynak kodunu yazmak için kullanılan bir süreçtir\nB) Her biri sistemin farklı bir görünümünü sunan soyut modeller geliştirme sürecidir\nC) Yalnızca sistemin veritabanı yapısını tasarlamaya odaklanır\nD) Proje bütçesini ve takvimini planlamaya yarayan tekniktir\nE) Sadece çevik projelerde kullanılan kodlama yöntemidir",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "2",
+                        "text": "UML'deki sıra diyagramları (sequence diagrams) ne amaçla kullanılır?\nA) Sistemdeki sınıflar ve aralarındaki kalıtım ilişkilerini göstermek için\nB) Sistemin durumlar arasındaki geçişlerini modellemek için\nC) Belirli bir kullanım senaryosunda aktörler ve nesneler arasındaki etkileşimlerin sırasını göstermek için\nD) Sistemin dış çevreyle olan bağlantılarını tanımlamak için\nE) Veri tabanı şemasını oluşturmak için",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Bağlam modelleri (context models) esas olarak neyi gösterir?\nA) Sistemin iç bileşenlerinin birbirleriyle nasıl iletişim kurduğunu\nB) Sistem sınırlarının dışında ne olduğunu ve sistemin operasyonel ortamını\nC) Sınıflar arasındaki kalıtım hiyerarşisini\nD) Sistemin tüm kullanıcı arayüzü ekranlarını\nE) Yazılım test senaryolarını",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "4",
+                        "text": "Kullanım durumu (use case) diyagramlarında \"aktör\" kavramı neyi ifade eder?\nA) Sistemin iç sınıflarından birini\nB) Sistemle etkileşen insan kullanıcılar veya dış sistemleri\nC) Veritabanındaki bir tabloyu\nD) Yazılım testini yapan kişiyi\nE) Sistemin donanım bileşenlerini",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Sınıf diyagramlarında \"genelleştirme\" (generalization) ilişkisi hangi kavramla doğrudan ilişkilidir?\nA) Veri birleştirme (aggregation)\nB) Çok biçimlilik (polymorphism)\nC) Kalıtım (inheritance) – üst sınıfın özelliklerinin alt sınıflara aktarılması\nD) Kapsülleme (encapsulation)\nE) Arayüz (interface) tanımı",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "6",
+                        "text": "Davranışsal modeller ne zaman kullanılır?\nA) Sistemin yalnızca statik veri yapısını tanımlamak için\nB) Sistemin yürütülürken dış ve iç uyaranlara nasıl tepki verdiğini göstermek için\nC) Proje ekibinin organizasyon şemasını çizmek için\nD) Sistemin kaynak kodunu otomatik olarak test etmek için\nE) Sadece veritabanı işlemlerini modellemek için",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "7",
+                        "text": "Durum diyagramları (state diagrams) hangi tür sistemlerin modellenmesinde özellikle sık kullanılır?\nA) Veri ambarı sistemleri\nB) Gerçek zamanlı sistemler\nC) Yalnızca e-ticaret uygulamaları\nD) Statik web siteleri\nE) Belge yönetim sistemleri",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Model Güdümlü Mühendislik'te (MGM) temel geliştirme çıktısı nedir?\nA) Test raporları\nB) Kaynak kodları\nC) Modeller; programlar bu modellerden otomatik olarak üretilir\nD) Kullanıcı el kitapları\nE) Proje yönetim planları",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "9",
+                        "text": "Model Güdümlü Mimari'deki (MDA) \"Platformdan Bağımsız Model (PIM)\" ne anlama gelir?\nA) Yalnızca Java platformuna özgü tasarım kararlarını içeren model\nB) Donanım altyapısını ayrıntılı biçimde belgeleyen model\nC) Belirli bir uygulama platformuna referans olmaksızın sistemin işleyişini tanımlayan model\nD) Veritabanı tablolarını ve ilişkilerini gösteren model\nE) Sistemin kullanıcı arayüzünü tanımlayan model",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "10",
+                        "text": "Yapısal modeller hakkında aşağıdakilerden hangisi doğrudur?\nA) Yalnızca sistemin dinamik davranışını gösterir\nB) Bir sistemin organizasyonunu, bileşenlerini ve bunlar arasındaki ilişkileri gösterir\nC) Sadece verilerin işlenme sırasını modellemek için kullanılır\nD) Yalnızca gerçek zamanlı sistemlerde kullanılabilir\nE) Sistem sınırlarını belirleyen politika kararlarını temsil eder",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "11",
+                        "text": "Veriye dayalı modellemede aktivite diyagramları hangi amaçla kullanılır?\nA) Sistemin tüm sınıflarını ve kalıtım ilişkilerini göstermek için\nB) Girdi verilerinin işlenme adımlarını ve uçtan uca işlem akışını göstermek için\nC) Aktörler arasındaki iletişim protokolünü tanımlamak için\nD) Sistem güvenlik politikalarını belgelemek için\nE) Yazılımın dağıtım topolojisini çizmek için",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "12",
+                        "text": "Yürütülebilir UML (xUML) bağlamında, sistem davranışı kaç temel model türüne indirgenmiştir?\nA) İki (sınıf modelleri, durum modelleri)\nB) Üç (alan modelleri, sınıf modelleri, durum modelleri)\nC) Dört (alan, sınıf, durum, etkileşim modelleri)\nD) Beş (bağlam, etkileşim, yapısal, davranış, MGM modelleri)\nE) Bir (birleşik UML diyagramı)",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "13",
+                        "text": "Bir toplama (aggregation) modeli neyi ifade eder?\nA) Sınıflar arasındaki kalıtım hiyerarşisini\nB) Koleksiyon olan sınıfların diğer sınıflardan nasıl oluştuğunu\nC) Sistemin harici aktörlerle etkileşimlerini\nD) Durum geçişlerini tetikleyen olayları\nE) Uygulamaya özgü platform bağımlılıklarını",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "14",
+                        "text": "MDA'nın (Model Güdümlü Mimari) çevik yöntemlerle uyumu konusunda hangi ifade doğrudur?\nA) Tüm çevik geliştiriciler MDA'yı benimsemiştir\nB) Kapsamlı önceden modelleme anlayışı, çevik manifestonun temel fikirleriyle çelişebilir\nC) MDA, çevik yöntemlerle tamamen uyumlu olduğu kanıtlanmıştır\nD) MDA yalnızca şelale modeliyle kullanılabilir\nE) Çevik projelerde MDA zorunlu tutulmaktadır",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "15",
+                        "text": "Sistem sınırının belirlenmesi hangi açıdan önemlidir?\nA) Yalnızca yazılımın hangi programlama diliyle yazılacağını belirler\nB) Sistem gereksinimleri üzerinde derin bir etkiye sahiptir ve siyasi/organizasyonel kararları yansıtır\nC) Sadece kullanıcı arayüzü tasarımını etkiler\nD) Yalnızca donanım seçimini kısıtlar\nE) Proje takvimini otomatik olarak belirler",
+                        "answer": "B"
+                    }
+                ],
+                "instructions": "Her soru için yalnızca bir doğru şık seçiniz. (Her soru 2 puan)"
+            },
+            {
+                "letter": "B",
+                "title": "Boşluk Doldurma Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Sistem modelleme, sistemi farklı perspektiflerden temsil etmek için neredeyse her zaman _______________ adlı grafiksel gösterim diline dayanan modeller kullanır.",
+                        "answer": "UML (Birleşik Modelleme Dili / Unified Modeling Language)"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Sistemin operasyonel bağlamını ve sınırların dışında ne olduğunu gösteren model türüne _______________ modeli denir.",
+                        "answer": "Bağlam modeli"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Kullanım durumu diyagramları ve sıra diyagramları, _______________ modellemesi için kullanılan başlıca UML araçlarıdır.",
+                        "answer": "Etkileşim (interaction)"
+                    },
+                    {
+                        "number": "4",
+                        "text": "Nesne yönelimli programlamada genelleştirme, Java gibi dillerde _______________ mekanizması aracılığıyla uygulanır.",
+                        "answer": "Sınıf kalıtımı (class inheritance)"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Davranışsal modellerde, sisteme gelen uyaranlar iki türe ayrılır: _______________ ve olaylar.",
+                        "answer": "Veriler (data)"
+                    },
+                    {
+                        "number": "6",
+                        "text": "Durum makinesi modellerinde, sistem durumları _______________ olarak, olaylar ise yaylar (ok) olarak gösterilir.",
+                        "answer": "Düğümler (nodes)"
+                    },
+                    {
+                        "number": "7",
+                        "text": "Model Güdümlü Mimari'de (MDA), belirli bir uygulamaya özgü platform bağımlılıkları içeren model türüne _______________ (PSM) denir.",
+                        "answer": "Platforma özgü model (Platform-Specific Model / PSM)"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Model Güdümlü Mimari'de hesaplamadan bağımsız modeller (CIM), bir sistemde kullanılan önemli _______________ soyutlamalarını modeller; bu nedenle bunlara bazen etki alanı modelleri de denir.",
+                        "answer": "Alan (domain)"
+                    },
+                    {
+                        "number": "9",
+                        "text": "Sıra diyagramlarında, her nesne veya aktörden dikey olarak aşağı çizilen noktalı çizgiye _______________ adı verilir.",
+                        "answer": "Yaşam çizgisi (lifeline)"
+                    },
+                    {
+                        "number": "10",
+                        "text": "Yürütülebilir UML'de (xUML) sistemin dinamik davranışı, nesne kısıtlama dili olan _______________ kullanılarak bildirimsel biçimde ifade edilebilir.",
+                        "answer": "OCL (Object Constraint Language – Nesne Kısıtlama Dili)"
+                    }
+                ],
+                "instructions": "Aşağıdaki cümlelerdeki boşlukları uygun kavramlarla doldurunuz. (Her boşluk 1 puan)"
+            },
+            {
+                "letter": "C",
+                "title": "Doğru / Yanlış Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Sistem modelleme, yalnızca yeni sistemlerin tasarım aşamasında kullanılır; mevcut sistemlerin analizinde kullanılmaz.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Sistem modelleme hem mevcut sistemlerin analizi hem de yeni sistemlerin tasarımında kullanılır."
+                    },
+                    {
+                        "number": "2",
+                        "text": "Bir sınıf diyagramındaki genelleştirme ilişkisinde, alt sınıflar üst sınıfın niteliklerini ve işlemlerini devralır.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Genelleştirme ilişkisinde alt sınıflar üst sınıfın nitelik ve işlemlerini devralır."
+                    },
+                    {
+                        "number": "3",
+                        "text": "Bağlam modelleri, bir sistemin iç bileşenlerinin birbirleriyle nasıl etkileştiğini ayrıntılı biçimde gösterir.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Bağlam modelleri sistemin dış ortamını gösterir; iç bileşen etkileşimlerini değil."
+                    },
+                    {
+                        "number": "4",
+                        "text": "Kullanım durumu diyagramlarında aktörler yalnızca insan kullanıcılardan oluşabilir; dış sistemler aktör olamaz.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Aktörler hem insan kullanıcılar hem de dış sistemler olabilir."
+                    },
+                    {
+                        "number": "5",
+                        "text": "Durum diyagramları, gerçek zamanlı sistemleri modellemek için özellikle uygundur.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Durum diyagramları, olay güdümlü gerçek zamanlı sistemlerin modellenmesinde özellikle kullanışlıdır."
+                    },
+                    {
+                        "number": "6",
+                        "text": "Model Güdümlü Mühendislik'te, programlar modellerden otomatik olarak üretilir; temel çıktı modellerdir.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – MGM'de temel çıktı modellerdir; programlar bu modellerden otomatik üretilir."
+                    },
+                    {
+                        "number": "7",
+                        "text": "Yapısal modeller hem statik hem de dinamik modeller içerebilir; statik modeller sistem tasarımının yapısını, dinamik modeller ise çalışma zamanı organizasyonunu gösterir.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Yapısal modeller statik (tasarım zamanı) ve dinamik (çalışma zamanı) olabilir."
+                    },
+                    {
+                        "number": "8",
+                        "text": "MDA'daki Platformdan Bağımsız Model (PIM), belirli bir donanım/yazılım platformuna özgü uygulama ayrıntılarını içerir.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – PIM, platforma bağımsızdır; platform bağımlılıklarını içeren model PSM'dir."
+                    },
+                    {
+                        "number": "9",
+                        "text": "Toplama (aggregation) modeli, kalıtım ilişkisini değil; bir sınıfın başka sınıflardan oluşma ilişkisini ifade eder.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Toplama, \"bütün–parça\" ilişkisini gösterir; kalıtımla karıştırılmamalıdır."
+                    },
+                    {
+                        "number": "10",
+                        "text": "Grafik modeller tartışma aracı olarak kullanıldığında, eksik veya hatalı modeller de kabul edilebilir; çünkü rolleri tartışmayı desteklemektir.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Tartışma aracı olarak kullanılan grafik modellerde eksiklik veya hata kabul edilebilir."
+                    }
+                ],
+                "instructions": "Her ifade için 'Doğru' veya 'Yanlış' seçeneğini işaretleyiniz. (Her soru 1 puan)"
+            },
+            {
+                "letter": "D",
+                "title": "Eşleştirme Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Etkinlik diyagramı (Activity Diagram)\na) Sistemin iç veya dış olaylara yanıtını, durumlar ve geçişler biçiminde modelleyen UML diyagramı",
+                        "answer": "c"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Durum diyagramı (State Diagram)\nb) Aktörler ile sistem arasındaki etkileşimleri, her birini ayrı bir görev olarak tanımlayan diyagram",
+                        "answer": "a"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Kullanım durumu diyagramı (Use Case)\nc) Bir iş sürecindeki faaliyetlerin akışını ve paralel işlemleri gösteren UML diyagramı",
+                        "answer": "b"
+                    },
+                    {
+                        "number": "4",
+                        "text": "Sınıf diyagramı (Class Diagram)\nd) Belirli bir senaryoda nesneler ve aktörler arasındaki mesajların zaman sırasına göre gösterildiği diyagram",
+                        "answer": "e"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Sıra diyagramı (Sequence Diagram)\ne) Sistemdeki sınıfların yapısını, niteliklerini ve ilişkilerini (kalıtım, birleşim vb.) gösteren diyagram",
+                        "answer": "d"
+                    },
+                    {
+                        "number": "6",
+                        "text": "Bağlam modeli (Context Model)\nf) Sistemin dış ortamını ve hangi sistemlerle ilişkide olduğunu gösteren model",
+                        "answer": "f"
+                    },
+                    {
+                        "number": "7",
+                        "text": "PIM (Platformdan Bağımsız Model)\ng) Belirli bir platforma referans olmaksızın sistemin işleyişini tanımlayan MDA model türü",
+                        "answer": "g"
+                    },
+                    {
+                        "number": "8",
+                        "text": "CIM (Hesaplamadan Bağımsız Model)\nh) Sistemdeki temel etki alanı soyutlamalarını modelleyen, bazen etki alanı modeli olarak da adlandırılan MDA model türü",
+                        "answer": "h"
+                    }
+                ],
+                "instructions": "A Sütunundaki kavramları B Sütunundaki tanımlarla eşleştiriniz. (Her eşleştirme 1 puan)\n\nA – Kavram\nB – Tanım / Açıklama"
+            },
+            {
+                "letter": "E",
+                "title": "Sıralama ve Analiz Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Model Güdümlü Mimari (MDA)'deki üç model türünü (CIM, PIM, PSM) soyutlama düzeyine göre en yüksekten en düşüğe doğru sıralayınız ve her birini tek cümleyle tanımlayınız.",
+                        "answer": "MDA model türleri (soyutlama yüksekten düşüğe):"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Sistem perspektiflerinden dördünü (harici, etkileşim, yapısal, davranışsal) listeleyiniz ve her biri için kullanılan UML diyagram türlerine birer örnek veriniz.",
+                        "answer": "Sistem perspektifleri ve örnek UML diyagramları:"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Aşağıda verilen UML diyagram türlerini, hangi sistem perspektifiyle (harici / etkileşim / yapısal / davranışsal) eşleştiği bilgisiyle tabloya yerleştiriniz: (a) Sınıf Diyagramı  (b) Durum Diyagramı  (c) Kullanım Durumu Diyagramı  (d) Aktivite Diyagramı  (e) Sıra Diyagramı",
+                        "answer": "Diyagram türleri – Perspektif eşleştirmesi:"
+                    }
+                ],
+                "instructions": "Aşağıdaki soruları talimatlar doğrultusunda cevaplayınız. (Her soru 3 puan)"
+            },
+            {
+                "letter": "F",
+                "title": "Kısa Cevaplı Sorular",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Model Güdümlü Mühendislik'in (MGM) artıları ve eksileri nelerdir? En az iki artı ve iki eksi sıralayınız.\nCevabınız:",
+                        "answer": "MGM artıları ve eksileri:"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Toplama (aggregation) ile genelleştirme (generalization) ilişkileri arasındaki farkı örnekle açıklayınız.\nCevabınız:",
+                        "answer": "Toplama ile genelleştirme arasındaki fark:"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Gerçek zamanlı bir sistemin modellenmesinde neden durum diyagramları tercih edilir? Mikrodalga fırın örneği üzerinden açıklayınız.\nCevabınız:",
+                        "answer": "Gerçek zamanlı sistemler ve durum diyagramları (Mikrodalga fırın örneği):"
+                    }
+                ],
+                "instructions": "Aşağıdaki soruları kısaca yanıtlayınız. (Her soru 5 puan)"
+            }
+        ]
+    },
+    {
+        "title": "Ders6_Mimari_Tasarim_Sorular",
+        "sections": [
+            {
+                "letter": "A",
+                "title": "Çoktan Seçmeli Sorular",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Mimari tasarımın temel amacı nedir?\nA) Programlama dilini ve test araçlarını seçmek\nB) Bir sistemi oluşturan alt sistemleri ve aralarındaki kontrol ile iletişim çerçevesini belirlemek\nC) Veritabanı şemasını oluşturmak\nD) Kullanıcı arayüzünü tasarlamak\nE) Proje bütçesini planlamak",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Açık mimari paylaşmanın avantajları arasında hangisi yer almaz?\nA) Paydaş iletişiminde ortak bir tartışma zemini oluşturur\nB) İşlevsel olmayan gereksinimlerin analiz edilmesine olanak tanır\nC) Büyük ölçekli yeniden kullanımı destekler\nD) Programın kaynak kodunu otomatik oluşturur\nE) Ürün hattı mimarileri geliştirilmesine imkân tanır",
+                        "answer": "D"
+                    },
+                    {
+                        "number": "3",
+                        "text": "\"Kutu ve Hat Diyagramları\" için hangisi doğrudur?\nA) Bileşenler arasındaki ilişki türlerini ayrıntılı biçimde gösterir\nB) Çok soyuttur; ne bileşen ilişki türlerini ne de dışarıdan görülebilir özellikleri gösterir\nC) UML sınıf diyagramlarının alternatif adıdır\nD) Yalnızca fiziksel donanım dağılımını temsil eder\nE) Güvenlik analizleri için en uygun modeldir",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "4",
+                        "text": "Mimari tasarım süreç içinde nerede konumlanır?\nA) Kodlama aşamasının tamamlanmasından sonra\nB) Spesifikasyon ve tasarım süreçleri arasında; genellikle bazı spesifikasyon faaliyetlerine paralel\nC) Yalnızca bakım aşamasında\nD) Test sürecinin bitiminden sonra\nE) Proje planlama aşamasından önce",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "5",
+                        "text": "\"Küçükte mimari\" ile \"genel mimari\" arasındaki temel fark nedir?\nA) Küçükte mimari yalnızca arayüz tasarımıyla ilgilenir\nB) Küçükte mimari bireysel programların bileşenlere ayrışmasıyla; genel mimari ise karmaşık kurumsal sistemlerle ilgilenir\nC) Genel mimari yalnızca tek bir programın yapısını inceler\nD) İkisi tamamen aynı anlama gelir\nE) Küçükte mimari çevik projelerde, genel mimari şelale modelinde kullanılır\n\n[ Mimari Görünümler ]",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "6",
+                        "text": "4+1 Görünüm Modeli'ndeki \"süreç görünümü\" neyi tanımlar?\nA) Sistemin donanım dağılımını\nB) Yazılımın geliştirme için nasıl ayrıştırıldığını\nC) Çalışma zamanında sistemin etkileşimli işlemlerden nasıl oluştuğunu\nD) Sistemdeki anahtar soyutlamaları nesne sınıfları olarak\nE) Kullanım senaryolarını",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "7",
+                        "text": "4+1 Görünüm Modeli'ndeki \"+1\" görünümü neye karşılık gelir?\nA) Fiziksel donanım dağılımı\nB) Geliştirme ekibinin organizasyon yapısı\nC) Kullanım senaryoları veya senaryolar\nD) Veritabanı şeması\nE) Güvenlik politikaları",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Bir sistemin mimari belgelenmesinde neden birden fazla görünüm sunulması gerekir?\nA) Her mimari model sistemin yalnızca bir perspektifini gösterdiğinden; farklı paydaşlar farklı perspektiflere ihtiyaç duyar\nB) Tek görünüm maliyeti artırdığından\nC) UML standardı en az beş görünüm zorunlu kıldığından\nD) Her görünüm farklı bir programlama dili gerektirdiğinden\nE) Çevik projelerde her sprint farklı bir görünüm ürettiğinden\n\n[ Mimari Desenler ]",
+                        "answer": "A"
+                    },
+                    {
+                        "number": "9",
+                        "text": "MVC deseninin temel amacı nedir?\nA) Veritabanı tablolarını otomatik oluşturmak\nB) Sunumu ve etkileşimi sistem verilerinden ayırmak\nC) Güvenlik katmanlarını tanımlamak\nD) Mikro hizmetler arasında iletişim sağlamak\nE) Test süreçlerini otomatikleştirmek",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "10",
+                        "text": "MVC deseninde \"Denetleyici (Controller)\" bileşeninin görevi nedir?\nA) Veritabanı işlemlerini yönetmek\nB) Verilerin kullanıcıya nasıl sunulacağını belirlemek\nC) Kullanıcı etkileşimlerini (tuş basma, tıklama vb.) Görünüm ve Model'e iletmek\nD) Sistemin iş mantığını uygulamak\nE) Ağ bağlantısını yönetmek",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "11",
+                        "text": "Katmanlı mimari deseninin dezavantajı hangisidir?\nA) Artımlı geliştirmeyi desteklemez\nB) Katmanlar arasında temiz bir ayrım sağlamak zordur; performans sorunu olabilir\nC) Güvenlik özelliklerini uygulamak imkânsızdır\nD) Yalnızca tek katmanlı sistemlerde kullanılabilir\nE) Birden fazla geliştirme ekibi kullanılamaz",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "12",
+                        "text": "Depo (Repository) deseninde \"tek hata noktası\" dezavantajı neyi ifade eder?\nA) Depo yalnızca bir bileşen tarafından kullanılabilir\nB) Merkezi depodaki bir sorunun tüm sistemi etkilemesi\nC) Bileşenlerin birbirini tanıması gerektiği\nD) Verinin yedeklenmesinin imkânsız olduğu\nE) Deponun yalnızca bir sunucuda çalışabileceği",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "13",
+                        "text": "İstemci-Sunucu mimarisinin avantajı nedir?\nA) Sunucular hata noktası oluşturmaz\nB) Ağ bağımlılığı performansı kesinleştirir\nC) Sunucular bir ağ üzerinden dağıtılabilir; genel işlevler tüm istemcilerce kullanılabilir\nD) Sunucular farklı kuruluşlarca yönetilemez\nE) Yük dengeleme desteklenmez",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "14",
+                        "text": "Boru ve Filtre (Pipe & Filter) mimarisi hangi tür sistemler için en uygun değildir?\nA) Toplu veri işleme sistemleri\nB) UNIX kabuk komut zinciri uygulamaları\nC) Fatura işleme sistemleri\nD) Etkileşimli (gerçek zamanlı kullanıcı arayüzlü) sistemler\nE) Seri sıralı veri dönüşümü gerektiren uygulamalar",
+                        "answer": "D"
+                    },
+                    {
+                        "number": "15",
+                        "text": "Boru ve Filtre deseninin avantajı hangisidir?\nA) İnteraktif sistemlerle tam uyumludur\nB) Veri formatı anlaşması gerekmez\nC) Anlaşılması kolaydır; dönüşümlerin yeniden kullanımını ve evrimini destekler\nD) Sistem ek yükünü tamamen ortadan kaldırır\nE) Yalnızca senkron (eşzamanlı) sistemlerde çalışır\n\n[ Uygulama Mimarileri ]",
+                        "answer": "C"
+                    },
+                    {
+                        "number": "16",
+                        "text": "İşlem işleme sistemlerinde \"işlem (transaction)\" kavramı nasıl tanımlanır?\nA) Tek bir kullanıcının oturumunu ifade eder\nB) Bir hedefi karşılayan tutarlı işlemler dizisi\nC) Sistemin yeniden başlatılması sürecidir\nD) Ağ paketlerinin iletim protokolüdür\nE) Veritabanı yedekleme sürecidir",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "17",
+                        "text": "Katmanlı bilgi sistemi mimarisindeki katmanların doğru sırası (üstten alta) hangisidir?\nA) Veritabanı → Bilgi alma → Kullanıcı iletişimi → Kullanıcı arayüzü\nB) Kullanıcı arayüzü → Kullanıcı iletişimi → Bilgi alma → Sistem veritabanı\nC) Bilgi alma → Kullanıcı arayüzü → Veritabanı → Kullanıcı iletişimi\nD) Sistem veritabanı → Kullanıcı arayüzü → Kullanıcı iletişimi → Bilgi alma\nE) Kullanıcı iletişimi → Bilgi alma → Kullanıcı arayüzü → Sistem veritabanı",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "18",
+                        "text": "Web tabanlı bilgi sistemlerinde \"uygulama sunucusu\" hangi görevden sorumludur?\nA) Yalnızca kullanıcı arayüzü ile iletişimden\nB) Uygulamaya özgü mantık ile bilgi depolama ve erişim taleplerinin uygulanmasından\nC) Yalnızca veritabanı işlem yönetiminden\nD) Ağ güvenlik duvarı yönetiminden\nE) Yalnızca yedekleme işlemlerinden",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "19",
+                        "text": "Dil işleme sistemlerindeki derleyicide \"sembol tablosu\" ne işe yarar?\nA) Sözdizimi hatalarını tespit eder\nB) Çevrilen metinde kullanılan varlıkların adları hakkında bilgi tutar\nC) Makine kodunu doğrudan üretir\nD) Girdi metni tokenlara böler\nE) Anlamsal doğruluğu kontrol eder",
+                        "answer": "B"
+                    },
+                    {
+                        "number": "20",
+                        "text": "Bir derleyicinin mimarisi için hangi mimari desen daha uygundur ve neden?\nA) MVC; çünkü kullanıcı arayüzü bileşenleri gereklidir\nB) İstemci-Sunucu; çünkü dağıtık çalışma gereklidir\nC) Boru ve Filtre; çünkü girdi metnin sıralı aşamalarda işlenmesi doğaldır\nD) Depo; çünkü ağ üzerinden bilgi paylaşımı zorunludur\nE) Katmanlı; çünkü güvenlik kısıtlamaları belirleyicidir",
+                        "answer": "C"
+                    }
+                ],
+                "instructions": "Her soru için yalnızca bir doğru şık seçiniz. (Her soru 2 puan)\n\n[ Yazılım Mimarisi Temelleri ]"
+            },
+            {
+                "letter": "B",
+                "title": "Boşluk Doldurma Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Mimari tasarımın çıktısı, sistemin _______________ adı verilen açıklamasıdır; bu açıklama alt sistemleri ve bunlar arasındaki iletişim çerçevesini tanımlar.",
+                        "answer": "Yazılım mimarisi"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Yazılım mimarisinin 4+1 Görünüm Modeli'nde sistemdeki anahtar soyutlamaları nesne veya sınıf olarak gösteren görünüme _______________ görünümü denir.",
+                        "answer": "Mantıksal"
+                    },
+                    {
+                        "number": "3",
+                        "text": "MVC deseninde veriler ve iş kuralları _______________ bileşeninde; ekrana nasıl gösterileceği ise _______________ bileşeninde yönetilir.",
+                        "answer": "Model / View (Görünüm)"
+                    },
+                    {
+                        "number": "4",
+                        "text": "Katmanlı mimaride bir katmanın arayüzü değiştiğinde yalnızca _______________ katman etkilenir; bu sayede artımlı geliştirme desteklenir.",
+                        "answer": "Bitişik (komşu)"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Depo deseninde bileşenler birbiriyle _______________ aracılığıyla değil, merkezi _______________ üzerinden etkileşim kurar.",
+                        "answer": "Doğrudan bilgi havuzu (depo)"
+                    },
+                    {
+                        "number": "6",
+                        "text": "İstemci-Sunucu mimarisinde her hizmet bir _______________ noktasıdır; sunucu arızalandığında o hizmet tüm istemciler için erişilemez hale gelir.",
+                        "answer": "Tek hata"
+                    },
+                    {
+                        "number": "7",
+                        "text": "Boru ve Filtre mimarisinde veri işleme birbirinden bağımsız _______________ bileşenlerinden geçerek akar; bu modelin UNIX kabuğundaki karşılığı boru (|) operatörüdür.",
+                        "answer": "Filtre"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Web tabanlı e-ticaret sistemlerinde kullanıcının çeşitli ürünleri tek tek işlemlere ekleyip tek bir işlemde ödeme yapmasını sağlayan yapıya _______________ denir.",
+                        "answer": "Alışveriş sepeti"
+                    },
+                    {
+                        "number": "9",
+                        "text": "Bir derleyicide sözdizimi çözümleyicisinin ürettiği ağaç yapısına _______________ ağacı denir; kod üreteci bu yapı üzerinde 'yürüyerek' makine kodu üretir.",
+                        "answer": "Sözdizimi (parse tree / syntax tree)"
+                    },
+                    {
+                        "number": "10",
+                        "text": "Mimari tasarım kararları sistemin _______________ olmayan özelliklerini (performans, güvenlik, kullanılabilirlik gibi) doğrudan etkiler.",
+                        "answer": "İşlevsel"
+                    }
+                ],
+                "instructions": "Aşağıdaki cümlelerdeki boşlukları uygun kavramlarla doldurunuz. (Her boşluk 1 puan)"
+            },
+            {
+                "letter": "C",
+                "title": "Doğru / Yanlış Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Kutu ve Hat Diyagramları anlambilim açısından zengindir; bileşenler arasındaki ilişki türlerini net biçimde gösterir.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Kutu ve Hat Diyagramları çok soyuttur; ilişki türlerini ve görünür özellikleri göstermez, bu yüzden eleştirilir."
+                    },
+                    {
+                        "number": "2",
+                        "text": "4+1 Görünüm Modeli'ndeki fiziksel görünüm, sistem donanımını ve yazılım bileşenlerinin işlemciler arasında nasıl dağıtıldığını gösterir.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Fiziksel görünüm donanım ve yazılımın işlemciler arasındaki dağılımını gösterir."
+                    },
+                    {
+                        "number": "3",
+                        "text": "MVC deseninde View (Görünüm) bileşeni, kullanıcı etkileşimlerini doğrudan Model'e iletmekten sorumludur.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Kullanıcı etkileşimlerini Model'e ileten Denetleyici'dir; View bu sorumluluğu taşımaz."
+                    },
+                    {
+                        "number": "4",
+                        "text": "Katmanlı mimaride, üst düzeydeki bir katmanın hemen altındaki katmanı atlayarak daha alt katmanlarla doğrudan etkileşimi pratikte hiç gerçekleşmez.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Pratikte üst katmanların alt katmanları atlayarak daha derin katmanlarla doğrudan iletişime geçmesi yaşanabilir."
+                    },
+                    {
+                        "number": "5",
+                        "text": "Depo deseninde bileşenler, diğer bileşenlerin varlığını bilmek zorunda değildir; bu bağımsızlık sağlar.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Depo deseninde bileşenler diğer bileşenlerin varlığından habersizdir; bağımsızlık sağlanır."
+                    },
+                    {
+                        "number": "6",
+                        "text": "Boru ve Filtre mimarisi hem sıralı (senkron) hem de eşzamanlı (asenkron/paralel) sistem olarak uygulanabilir.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Boru ve Filtre hem sıralı hem eşzamanlı sistemlerde uygulanabilir."
+                    },
+                    {
+                        "number": "7",
+                        "text": "İstemci-Sunucu mimarisinde sunucuların ağ üzerinde dağıtılabilmesi bu desenin temel dezavantajıdır.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Sunucuların ağ üzerinde dağıtılabilmesi İstemci-Sunucu'nun temel AVANTAJIDUR; dezavantaj değil."
+                    },
+                    {
+                        "number": "8",
+                        "text": "Dil işleme sistemlerinde sözcük analizcisi (lexer), giriş dili belirteçlerini (token) alarak dahili bir forma dönüştürür.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Sözcük analizcisi tokenları dahili forma dönüştürür."
+                    },
+                    {
+                        "number": "9",
+                        "text": "Uygulama mimarileri yalnızca tasarım başlangıç noktası olarak kullanılır; belgeleme, ekip organizasyonu veya bileşen değerlendirmesi amacıyla kullanılamaz.   [ Doğru / Yanlış ]",
+                        "answer": "Yanlış – Uygulama mimarileri; tasarım başlangıç noktası, kontrol listesi, ekip organizasyonu, bileşen değerlendirme ve ortak kelime dağarcığı gibi çok amaçla kullanılır."
+                    },
+                    {
+                        "number": "10",
+                        "text": "Güvenlik özelliği için önerilen mimari yaklaşım; kritik varlıkları iç katmanlarda tutan katmanlı bir mimari kullanmaktır.   [ Doğru / Yanlış ]",
+                        "answer": "Doğru – Güvenlik için katmanlı mimari; kritik varlıklar iç katmanlarda korunur."
+                    }
+                ],
+                "instructions": "Her ifade için 'Doğru' veya 'Yanlış' seçeneğini işaretleyiniz. (Her soru 1 puan)"
+            },
+            {
+                "letter": "D",
+                "title": "Eşleştirme Soruları",
+                "questions": [],
+                "instructions": "A Sütunundaki mimari desen/kavramları B Sütunundaki açıklamalar veya örnek sistemlerle eşleştiriniz. (Her eşleştirme 1 puan)\n\nA – Mimari Desen / Kavram\nB – Açıklama / Özellik\nMVC Deseni\nSunumu veriden ayırır; web uygulamalarında yaygındır\nKatmanlı Mimari\nKütüphane yönetim sistemi ve bilgi sistemlerinde kullanılır; her katman üstüne hizmet sağlar\nDepo Deseni\nIDE ortamında araçların ortak veri deposunu (repository) paylaşması örneği\nİstemci-Sunucu Deseni\nFilm/video kütüphanesi; paylaşılan veritabanına farklı konumlardan erişim\nBoru ve Filtre Deseni\nDerleyici ve fatura işleme; sıralı dönüşüm aşamaları\n4+1 Görünüm Modeli\nMimariyi mantıksal, süreç, geliştirme, fiziksel ve senaryo perspektiflerinde belgeler\nİşlem İşleme Sistemi\nATM, rezervasyon ve e-ticaret gibi veritabanı işlemi odaklı uygulamalar\nDil İşleme Sistemi\nDerleyici veya komut yorumlayıcı; metni bir dilden diğerine çevirir"
+            },
+            {
+                "letter": "E",
+                "title": "Analiz ve Karşılaştırma Soruları",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "Aşağıdaki sistemi en iyi modelleyen mimari desen hangisidir ve neden?\n   \"Bir çevrimiçi rezervasyon sistemi: kullanıcılar web tarayıcısından uçuş arar, rezervasyon yapar ve ödeme gerçekleştirir.\"\nA) Boru ve Filtre – çünkü sıralı veri dönüşümü yapılmaktadır\nB) Depo – çünkü merkezi bir veri deposuna ihtiyaç vardır\nC) İstemci-Sunucu + Katmanlı – çünkü paylaşılan veritabanına dağıtık erişim ve katmanlı bilgi sistemi mimarisi gereklidir\nD) MVC – çünkü yalnızca kullanıcı arayüzü yönetimi yeterlidir\nE) Yalnızca MVC – çünkü denetleyici tüm iş mantığını üstlenir",
+                        "answer": "C – Rezervasyon sistemi paylaşılan veritabanı (İstemci-Sunucu) ve katmanlı bilgi sistemi mimarisini birlikte kullanır."
+                    },
+                    {
+                        "number": "2",
+                        "text": "Performans özelliği için önerilen mimari ilke aşağıdakilerden hangisidir?\nA) Az iş yapan küçük bileşenler kullanmak ve iletişimi artırmak\nB) Kritik işlemleri yerelleştirmek, iletişimi en aza indirmek ve büyük parçalar kullanmak\nC) Kritik varlıkları iç katmanlarda tutmak\nD) Hata toleransı için fazladan bileşenler eklemek\nE) Birden fazla küçük değiştirilebilir bileşen kullanmak",
+                        "answer": "B – Performans: Kritik işlemleri yerelleştir, iletişimi azalt, büyük parçalar kullan."
+                    },
+                    {
+                        "number": "3",
+                        "text": "Depo deseni ile İstemci-Sunucu deseni arasındaki en temel yapısal fark nedir?\nA) Depo yalnızca tek bir bileşen tarafından erişilir; İstemci-Sunucu ise çok sayıda bileşen içerir\nB) Depoda bileşenler merkezi bir veri deposu üzerinden pasif etkileşim kurar; İstemci-Sunucu'da istemciler sunuculardan aktif hizmet talep eder\nC) İstemci-Sunucu tek bir sunucu gerektirir; Depo birden fazla sunucu gerektirir\nD) Depo yalnızca web uygulamalarında; İstemci-Sunucu yalnızca masaüstü uygulamalarında kullanılır\nE) Her ikisi de tamamen aynı yapıya sahiptir",
+                        "answer": "B – Depo: pasif merkezi depo; İstemci-Sunucu: aktif hizmet talebi. Temel yapısal fark budur."
+                    },
+                    {
+                        "number": "4",
+                        "text": "Bir derleyici için hem Boru-Filtre hem de Depo mimarisi kullanılabilmektedir. Bu iki yaklaşımın derleyici bağlamındaki temel farkını açıklayınız.\nA) Boru-Filtre sembol tablosuna erişim için daha uygundur\nB) Boru-Filtre sıralı aşama akışını modellerken; Depo mimarisinde tüm araçlar ortak bir bilgi deposunu (sembol tablosu vb.) paylaşır\nC) İkisi birbirinin yerine kullanılamaz; Depo mimarisi derleyicilere uygun değildir\nD) Depo mimarisi sıralı akışı, Boru-Filtre ise eşzamanlı erişimi modellemek için kullanılır\nE) Her ikisi de tamamen aynı çıktıyı üretir",
+                        "answer": "B – Boru-Filtre sıralı aşama akışını; Depo ise araçların ortak bilgi tabanını paylaşmasını modeller."
+                    }
+                ],
+                "instructions": "Aşağıdaki soruları talimatlar doğrultusunda cevaplayınız. (Her soru 3 puan)"
+            },
+            {
+                "letter": "F",
+                "title": "Kısa Cevaplı Sorular",
+                "questions": [
+                    {
+                        "number": "1",
+                        "text": "MVC deseninin avantajlarını ve dezavantajlarını karşılaştırınız. Hangi durumlarda MVC tercih edilmeli, hangi durumlarda kaçınılmalıdır?\nCevabınız:",
+                        "answer": "MVC: Avantajlar, Dezavantajlar ve Kullanım Kılavuzu"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Sistem özellikleri (performans, güvenlik, emniyet, kullanılabilirlik, sürdürülebilirlik) ile mimari kararlar arasındaki ilişkiyi her özellik için bir cümleyle açıklayınız.\nCevabınız:",
+                        "answer": "Sistem Özellikleri ve Mimari Kararlar:"
+                    },
+                    {
+                        "number": "3",
+                        "text": "İşlem işleme sistemleri ile dil işleme sistemleri arasındaki temel farkları karşılaştırınız. Her birinin tipik mimarisi ve örnek uygulama alanları nelerdir?\nCevabınız:",
+                        "answer": "İşlem İşleme vs. Dil İşleme Sistemleri:"
+                    }
+                ],
+                "instructions": "Aşağıdaki soruları kısaca yanıtlayınız. (Her soru 5 puan)"
+            }
+        ]
+    }
+]
