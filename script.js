@@ -73,6 +73,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
             sectionDiv.appendChild(secHeader);
 
+            const isMatching = section.title.toLowerCase().includes('eşleştirme');
+
             // Questions
             section.questions.forEach(q => {
                 const qCard = document.createElement('div');
@@ -103,7 +105,27 @@ document.addEventListener('DOMContentLoaded', () => {
                     ansIcon.innerHTML = '<i class="fas fa-check-circle"></i>';
 
                     const ansText = document.createElement('div');
-                    ansText.textContent = q.answer;
+                    
+                    let displayAnswer = q.answer;
+                    if (isMatching) {
+                        const letterToFind = q.answer.trim().toLowerCase();
+                        let explanation = '';
+                        for (const sq of section.questions) {
+                            const lines = sq.text.split('\n');
+                            for (const line of lines) {
+                                const match = line.trim().match(new RegExp(`^${letterToFind}\\s*\\)\\s*(.*)`, 'i'));
+                                if (match) {
+                                    explanation = match[1];
+                                    break;
+                                }
+                            }
+                            if (explanation) break;
+                        }
+                        if (explanation) {
+                            displayAnswer = `${q.answer.toUpperCase()}) ${explanation}`;
+                        }
+                    }
+                    ansText.textContent = displayAnswer;
 
                     ansBox.appendChild(ansIcon);
                     ansBox.appendChild(ansText);
