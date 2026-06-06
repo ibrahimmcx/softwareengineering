@@ -210,9 +210,24 @@ main {
         font-size: 1.8rem;
     }
 
+    nav {
+        justify-content: flex-start;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+    }
+    
+    nav::-webkit-scrollbar {
+        display: none;
+    }
+
     .doc-btn {
         padding: 0.5rem 1rem;
         font-size: 0.9rem;
+        flex-shrink: 0;
+        white-space: nowrap;
     }
 
     main {
@@ -251,9 +266,5 @@ main {
 @media (max-width: 480px) {
     h1 {
         font-size: 1.5rem;
-    }
-
-    .doc-btn {
-        width: 100%;
     }
 }
