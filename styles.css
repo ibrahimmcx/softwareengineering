@@ -199,3 +199,61 @@ main {
 @keyframes spin {
     to { transform: rotate(360deg); }
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header {
+        padding: 1rem;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    .doc-btn {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    main {
+        margin: 1rem auto;
+        padding: 0 1rem;
+    }
+
+    .section-title {
+        font-size: 1.5rem;
+    }
+
+    .question-card {
+        padding: 1rem;
+    }
+
+    .question-header {
+        gap: 0.75rem;
+    }
+
+    .question-number {
+        width: 28px;
+        height: 28px;
+        font-size: 0.9rem;
+    }
+
+    .question-text {
+        font-size: 1.05rem;
+    }
+
+    .answer-box {
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .doc-btn {
+        width: 100%;
+    }
+}
